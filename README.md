@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![NumPy](https://img.shields.io/badge/numpy-1.20.0-green)
 
-This repository contains a pet project focused on building a handwritten digit recognition system from scratch using the NumPy library. The goal of this project is to develop a basic machine learning model that can accurately identify hand-drawn digits.
-
 
 ## Dataset
 
